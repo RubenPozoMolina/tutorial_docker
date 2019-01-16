@@ -16,6 +16,7 @@ Docker se puede instalar en muchas distribuciones de Linux habilitando la virtua
 
 * [Instalación en Windows](https://docs.docker.com/docker-for-windows/)
 * [Instalación Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04)
+* [Instalación Mac](https://docs.docker.com/docker-for-mac/install/)
 * [Instalación documentación oficial](https://docs.docker.com/install/)
 
 ## 3. Uso básico
